@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxTokenBox - How to remove items from drop-down after selection
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5154/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to show only items that were not selected in the item collection. I.e. all items that were selected will be removed from the drop-down window, and unselected items will be added there again.</p>
